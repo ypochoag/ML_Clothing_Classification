@@ -1,0 +1,26 @@
+
+Machine Learning - 
+
+Clothing Classification 
+
+
+As an academic application, it is proposed to solve a classification problem using the Fashion-MNIST Dataset,
+ but, by way of illustration, the problem located under the following scenario will be taken: A clothing sales
+ company in Colombia opens its doors again, after having experienced the consequences of the pandemic caused by
+ Covid-19 in other countries and thinking about the safety of people, decides to fully automate their stores,
+ their ideal is to keep contact between staff, customers and garments to a minimum, as well same as, reduce the
+ time of permanence of people in the store, among all the ideas that were raised and the investments made in 
+automatic storage equipment and interaction interfaces, with the aim of reducing all types of contact, one of 
+them is the identification automatic garments, the staff should only be in charge of hanging all the elements 
+on hooks and placing them at the entrance of the automatic storage system, to us We were hired to identify the 
+garment and send a label to the system so that it can position it in the indicated section, in such a way that 
+when any of the clients requires to see the garments of a section, they will only be shown the type that they 
+I select; This development will reduce contact between staff and customers, since they will interact with the 
+automatic storage system through an interface, which in turn reduces contact with the garments, since customers 
+will not touch any garment to carry out search tasks. everything will be done by automatic visualization and will 
+only be delivered to the client when he makes the decision to take it.
+
+It is necessary that the algorithm works with the least possible error, given that, if it does not, the staff will
+ have to make the corrections by entering the warehouse and changing the garment section, in addition to the fact 
+that in the future the company wishes to implement new garments such as hats and accessories. , they would hire us 
+to carry out the development, if there is a high success rate.
